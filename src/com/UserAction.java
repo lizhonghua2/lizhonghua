@@ -7,6 +7,6 @@ public class UserAction {
 		System.out.println("hello world3");
 		System.out.println("test  merge");
 		System.out.println("hello world3");
-		System.out.println("test  merge222");
+		System.out.println("merge2");
 	}
 }
