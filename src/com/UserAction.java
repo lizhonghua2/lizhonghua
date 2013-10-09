@@ -13,5 +13,6 @@ public class UserAction {
 		System.out.println("hello world3");
 		System.out.println("merge2");
 		System.out.println("me");
+		System.out.println("ok");
 	}
 }
