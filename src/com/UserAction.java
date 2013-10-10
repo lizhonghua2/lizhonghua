@@ -14,5 +14,6 @@ public class UserAction {
 		System.out.println("merge2");
 		System.out.println("me");
 		System.out.println("ok");
+		System.out.println("ok2");
 	}
 }
